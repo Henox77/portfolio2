@@ -63,4 +63,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 Benimle iletişime geçmek için:
 
 
-- R10: [https://r10.net/profil/205411-henoxdev.html)](https://www.r10.net/profil/205411-henoxdev.html)
+- R10: [https://r10.net/profil/205411-henoxdev.html](https://www.r10.net/profil/205411-henoxdev.html)
