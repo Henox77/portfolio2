@@ -1,17 +1,6 @@
-# Portfolyo Projesi
+# Portfolio 2
 
 Bu proje, kişisel portfolyomu sergilemek amacıyla oluşturulmuştur.
-
-## Özellikler
-
-- Modern ve sade tasarım
-- Koyu tema (Dark Mode)
-- Responsive (Tüm cihazlara uyumlu)
-- GitHub projelerini çekme ve sergileme
-- Kullandığım teknolojileri gösterme
-- Animasyonlar (Framer Motion)
-- Hakkımda bölümü (Modal)
-- İletişim (WhatsApp linki)
 
 ## Teknolojiler
 
