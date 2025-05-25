@@ -56,13 +56,11 @@ Proje tarayıcınızda `http://localhost:5173/` adresinde çalışacaktır.
 
 ## Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ## İletişim
 
 Benimle iletişime geçmek için:
 
-- GitHub: [Henox77](https://github.com/Henox77)
-- Instagram: [YOUR_INSTAGRAM_USERNAME](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-- YouTube: [YOUR_YOUTUBE_CHANNEL_ID](https://youtube.com/YOUR_YOUTUBE_CHANNEL_ID)
-- WhatsApp: [YOUR_PHONE_NUMBER](https://wa.me/YOUR_PHONE_NUMBER) 
+
+- R10: [https://r10.net/profil/205411-henoxdev.html)](https://www.r10.net/profil/205411-henoxdev.html)
