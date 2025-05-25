@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
               <FaGithub />
             </motion.a>
             <motion.a
-              href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"
+              href="https://instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.2, y: -5 }}
@@ -71,7 +71,7 @@ const Hero: React.FC = () => {
               <FaInstagram />
             </motion.a>
             <motion.a
-              href="https://youtube.com/YOUR_YOUTUBE_CHANNEL_ID"
+              href="https://youtube.com/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.2, y: -5 }}
