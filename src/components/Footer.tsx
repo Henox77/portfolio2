@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
               <Github size={20} />
             </a>
             <a 
-              href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"
+              href="https://instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-dark-200 flex items-center justify-center text-gray-400 hover:text-pink-500 hover:bg-dark-100 transition-all duration-300"
@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
               <Instagram size={20} />
             </a>
             <a 
-              href="https://youtube.com/YOUR_YOUTUBE_CHANNEL_ID"
+              href="https://youtube.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-dark-200 flex items-center justify-center text-gray-400 hover:text-red-600 hover:bg-dark-100 transition-all duration-300"
